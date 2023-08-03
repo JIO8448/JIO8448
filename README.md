@@ -1,4 +1,3 @@
-<img src='images/0ea3eae25b2140ed688b887f85b0149ccca58746b43f2ec76acae09198b72faaafa7a68786e9c19d87ecc714107b079e5be02281b2e30a5b39c32a4e474544373cfd9e51cb64a0dd9efa5e114d162f70630711d77de725323053c3835e47bb5a.jpg'> </img>
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90)
 
